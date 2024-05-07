@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: "About"
 permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/dbpedia_logo.png "DBpedia logo"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+# Ontology Time Machine / Package Manager using DBpedia Archivo for DBpedia
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+The project focuses on improving DBpedia Archivo, an ontology archive containing over 1800 versioned snapshots of ontologies. It addresses the challenges of ontology evolution and unavailability, which can impact the development of data-driven applications that rely on interconnected web ontologies. The project's primary goal is to improve the FAIRness (Findability, Accessibility, Interoperability and Reusability) of ontologies for linked data and RDF knowledge graphs through DBpedia Archivo.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
