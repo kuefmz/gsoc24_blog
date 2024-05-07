@@ -67,22 +67,6 @@ models:
         name: highlightjs_theme
         label: Hightlight JS
       - type: object
-        name: pagination
-        label: Pagination
-        fields: 
-          - type: boolean
-            name: enabled
-            label: Enable Pagination
-          - type: number
-            name: per_page
-            label: Per Page
-          - type: string
-            name: permalink
-            label: Permalink
-          - type: boolean
-            name: sort_reverse
-            label: Sort Reverse
-      - type: object
         name: jekyll-archives
         label: Jekyll Archives 
         fields:
@@ -187,13 +171,7 @@ models:
         name: layout
         label: Page Layout
         required: true
-      - type: object
-        name: pagination
-        label: Pagination
-        fields:
-          - type: boolean
-            name: enabled
-            label: Enabled
+
   basicpage:
     type: page
     label: Basic Page
