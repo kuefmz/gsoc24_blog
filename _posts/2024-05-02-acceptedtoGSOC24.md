@@ -4,6 +4,7 @@ title:  "Accepted to GSoC2024"
 date:   2024-05-02
 author: "Jenifer Tabita Ciuciu-Kiss"
 categories: experience
+
 ---
 
 I'm thrilled to shared that I’ve been accepted into Google Summer of Code 2024 to work on a project with DBpedia.
