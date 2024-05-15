@@ -6,7 +6,7 @@ author: "Jenifer Tabita Ciuciu-Kiss"
 categories: progress
 ---
 
-I had the first meeting with my mentors: Johannes Frey and Natanael Arndt.
+I had the first meeting with my mentors: [Johannes Frey](https://aksw.org/JohannesFrey) and [Natanael Arndt](https://aksw.org/NatanaelArndt).
 
 We introduced ourselves and discussed the basic setup.
 
