@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Coding period - 1st week"
+title:  "DBpedia contributors meeting"
 date:   2024-05-28
 author: "Jenifer Tabita Ciuciu-Kiss"	
-categories: progress
+categories: experience
 ---
 
 We had a meeting for all the accepted DBpedia contributors organized by Julia Holze and Tommaso Soru.
