@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coding period - 1st week"
-date:   2024-05-31
+date:   2024-05-28
 author: "Jenifer Tabita Ciuciu-Kiss"	
 categories: progress
 ---
