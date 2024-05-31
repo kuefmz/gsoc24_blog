@@ -15,6 +15,7 @@ Progress since last week:
 We had a meeting with my mentor and we had a short discussion about how the proxy should behave in the failover mode and in the time based mode.
 
 Next steps:
+- Set up CI in GitHub actions.
 - Implement the failover mode:
     - If the IRI is throwing and error (404, 500, etc.) catch that and return the correct ontology using the Archivo API:
         - The DBpedia Archivo API: https://archivo.dbpedia.org/download?o={ontology}&f={format}
