@@ -30,4 +30,6 @@ We had a follow-up discussion to clear the misunderstandings and I also received
 - https://github.com/abhinavsingh/proxy.py/tree/develop/skeleton
 
 
+Johannaes also gave me access to the DBpedia server.
+
 During the meeting we discussed all of the above. The next step is to rewrite the proxy accordingly and to have another meeting for the steps after the basic setup is done correctly.
