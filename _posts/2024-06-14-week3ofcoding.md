@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Coding period - 3nd week"
-date:   2024-06-07
+title:  "Coding period - 3rd week"
+date:   2024-06-14
 author: "Jenifer Tabita Ciuciu-Kiss"	
 categories: progress
 ---
@@ -18,4 +18,5 @@ Next steps:
 - The proxy is not working for https, as so that has to be fixed.
 - Extend the functionality.
 - Change the logging from prints to logger.
+
 
