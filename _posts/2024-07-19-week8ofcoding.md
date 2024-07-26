@@ -47,6 +47,8 @@ Here is an examples RDF that we want to use to define the dependencies in RDF:
 
 
 Discussion:
+- Brainstorming about the dependency based mode
+- 
 
 
 Next steps:
