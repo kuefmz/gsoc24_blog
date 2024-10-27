@@ -23,7 +23,22 @@ Discussion:
     - https://docs.pytest.org/en/7.1.x/example/parametrize.html
     - https://docs.pytest.org/en/7.1.x/how-to/parametrize.html#parametrize-basics
 - I had an issue with intercepting only the in scope HTTPS request, for which we agreed on opening a discussion here: https://stackoverflow.com/help/minimal-reproducible-example
-
+- HTTPS SSL Issue
+    - Addressing HTTPS SSL interception, specifically with out-of-scope URLs.
+- Task and Issue Tracking
+    - Plan to add actual tasks to GitHub issues to keep better track of progress and problem areas.
+- Project Tools and Testing
+    - ClickPoject: Used for creating argparse interfaces for ease of interaction.
+    - Unittesting proxy.py: Can be utilized to verify parameter handling.
+    - Python Unittest: Generate relevant test cases to ensure functionality.
+- Mini-project for HTTPS Interception
+    - Proposal to create a mini-project to demonstrate HTTPS interception and contribute to the ongoing proxy discussion.
+    - Goal: Minimal Working Example for reproduction.
+- Dependency-Based Model
+    - Concept of creating a base/manifest file with exact versions to use:
+    - Define base files to investigate existing ontology dependencies.
+    - Resolve naming conventions (e.g., base vs. name).
+    - Ideal solution: design an ontology for dependency management in RDF.
 
 Next steps:
 - Start a new discussion about the ontology intercept

@@ -6,6 +6,9 @@ author: "Jenifer Tabita Ciuciu-Kiss"
 categories: progress
 ---
 
+
+## Porgress this week
+
 This week I created my first pull request with the following updates:
 
 - Set up the project
@@ -17,6 +20,8 @@ This week I created my first pull request with the following updates:
 
 Johannes reviewed it and he gave me the following feedback:
 - I think there is still a litte misunderstanding what a proxy does. a proxy forwards http requests to the server and returns them to the client. It is NOT a webserver on its own or a reverse-proxy. so in other words it forwards the get requests but does not serve get requests on its own like you did at the moment.
+
+## Discussion
 
 We had a follow-up discussion to clear the misunderstandings and I also received the following resources:
 - Example proxy 116.203.28.43 port 80
@@ -32,4 +37,5 @@ We had a follow-up discussion to clear the misunderstandings and I also received
 
 Johannaes also gave me access to the DBpedia server.
 
+## Next steps
 During the meeting we discussed all of the above. The next step is to rewrite the proxy accordingly and to have another meeting for the steps after the basic setup is done correctly.

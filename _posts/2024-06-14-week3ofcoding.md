@@ -6,6 +6,7 @@ author: "Jenifer Tabita Ciuciu-Kiss"
 categories: progress
 ---
 
+## Progress
 This week we had a meeting at the beginning of the week and some async discussions about the project.
 
 The progress of the week:
@@ -14,7 +15,8 @@ The progress of the week:
 - Dockerfile is created.
 - Deployed to the the DBpedia server, so it can be tested here: 95.217.207.179:8182
 
-Next steps:
+
+## Next steps:
 - The proxy is not working for https, as so that has to be fixed.
 - Extend the functionality.
 - Change the logging from prints to logger.

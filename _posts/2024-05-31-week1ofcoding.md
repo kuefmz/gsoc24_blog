@@ -6,7 +6,7 @@ author: "Jenifer Tabita Ciuciu-Kiss"
 categories: progress
 ---
 
-Progress since last week:
+## Progress since last week:
 - Setting up the project structure
 - Set up poetry virtual environment
 - Create the basic structure of the proxy with the http library and I used the threading library in Python to spin up the HTTP proxy server on a new thread
@@ -14,7 +14,7 @@ Progress since last week:
 
 We had a meeting with my mentor and we had a short discussion about how the proxy should behave in the failover mode and in the time based mode.
 
-Next steps:
+## Next steps:
 - Set up CI in GitHub actions.
 - Implement the failover mode:
     - If the IRI is throwing and error (404, 500, etc.) catch that and return the correct ontology using the Archivo API:
